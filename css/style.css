@@ -1,0 +1,32 @@
+.postIt {
+    padding: 5px;
+    border-radius: 3px;
+}
+
+#ajoutP {
+    border-radius: 3px;
+    background-color: cornflowerblue;
+    color: black;
+    font-weight: bold;
+    border-style: none;
+    padding: 5px 30px;
+}
+#ajoutP:hover {
+    cursor: pointer;
+    background-color: black;
+    color: cornflowerblue;
+}
+
+.bottomMenu {
+    position: absolute;
+    bottom: 0;
+    right:0;
+    height: 20px;
+}
+
+.debug {
+    background-color: lightcoral;
+    width: 500px;
+    height: 50px;
+    border: black 1px solid;
+}
